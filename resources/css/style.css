@@ -21,6 +21,7 @@ body {
   left: 0;
   height: 69px;
   width: 100%;
+  background-color: inherit;
   border-bottom: 1px solid seashell;
 }
 

@@ -50,3 +50,20 @@ body {
   background-color: black;
   opacity: 0.9;
 }
+
+/* main */
+
+.main {
+
+}
+
+/* footer */
+
+.footer {
+
+}
+
+.footer .copyright {
+  text-align: left;
+  margin-left: 20px;
+}

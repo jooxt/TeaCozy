@@ -90,6 +90,31 @@ body {
 
 /* locations */
 
+.locations {
+  width: 1200px;
+  height: 500px;
+  background-image: url(../images/img-locations-background.jpg);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.locations .container {
+  display: flex;
+  flex-direction: row;
+}
+
+.locations .downtown,
+.locations .eastbayside,
+.locations .oakdale {
+  width: 300px;
+  height: auto;
+  margin: 15px 20px 0 20px;
+  background-color: black;
+  opacity: 1;
+}
 
 /* footer */
 

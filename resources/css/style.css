@@ -69,13 +69,9 @@ body {
 
 .mission {
   width: 1200px;
-}
-
-.missionimage {
-  display: flex;
-  background-image: url(../images/img-mission-background.jpg);
-  width: inherit;
   height: 700px;
+  background-image: url(../images/img-mission-background.jpg);
+  display: flex;
 }
 
 .statement {
